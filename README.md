@@ -1,9 +1,9 @@
 # Student Portfolio in COSC 111
 
 **Subject:** Internet of Things (IoT) Laboratory  
-**Student Name:** [INSERT YOUR NAME HERE]  
-**Section:** [INSERT YOUR SECTION HERE]  
-**Instructor:** [INSERT INSTRUCTOR NAME]
+**Student Name:** Lhojen Faith C. Bonganay  
+**Section:** BSCS - 4C 
+**Instructor:** Johnroe Paulo Cañamaque
 
 ---
 
@@ -15,6 +15,8 @@ Each folder contains the source code (`.ino`, `.py`) and a detailed documentatio
 ---
 
 ## 📂 Laboratory Activities
+
+Individual README.md files of the respective lab activities can be found within their respective folders.
 
 ### [Laboratory Activity 1: Working with Digital Signals](./Laboratory%20Activity%20%231%3A%20Working%20with%20Digital%20Signals)
 * **Focus:** Digital Output, `digitalWrite()`
