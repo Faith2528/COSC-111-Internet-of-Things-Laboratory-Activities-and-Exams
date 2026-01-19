@@ -1,6 +1,6 @@
 const int photoResistorPin = A2;
-const int ledPin = 12;
-const int lightThreshold = 150;
+const int ledPin = 8;
+const int lightThreshold = 220;
 bool thresholdMet = false;
 
 void setup() {
