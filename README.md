@@ -2,7 +2,7 @@
 
 **Subject:** Internet of Things (IoT) Laboratory  
 **Student Name:** Lhojen Faith C. Bonganay  
-**Section:** BSCS 4C  
+**Section:** BSCS - 4C  
 **Instructor:** Johnroe Paulo Cañamaque  
 
 ---
