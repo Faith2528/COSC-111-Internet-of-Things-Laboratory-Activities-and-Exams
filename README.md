@@ -10,7 +10,7 @@
 ## 📖 Portfolio Overview
 This repository serves as a compilation of all laboratory activities, examinations, and prototypes developed for the **COSC 111** course. The projects range from basic digital signal processing on an Arduino to complex, bi-directional communication systems involving Python scripts and FastAPI web servers.
 
-Each folder contains the source code (`.ino`, `.py`) and a detailed documentation file explaining the circuit logic and implementation.
+**Each folder contains the source code (`.ino`, `.py`) and a detailed documentation file explaining the circuit logic and implementation. **
 
 ---
 
